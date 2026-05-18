@@ -1,0 +1,23 @@
+# GitHub repo — только архив статей. Код, метаданные, бэкапы — не публикуем.
+
+# Служебные папки
+logs/
+metadata/
+raw_html/
+scripts/
+
+# Архив (генерируется)
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
